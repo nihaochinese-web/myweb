@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
+  <style>
+    .cartoon {
+      font-family: 'Comic Sans MS', sans-serif;
+      font-size: 60px;
+    }
+    .nihao {
+      fill: white;
+    }
+    .chinese {
+      fill: rgb(254, 217, 218);
+    }
+  </style>
+  <text x="20" y="100" class="cartoon nihao">Nihao</text>
+  <text x="180" y="100" class="cartoon chinese">Chinese</text>
+</svg>
